@@ -1,0 +1,16 @@
+.image-div img{
+    height: 650px !important;
+}
+
+.ship-carousel-img{
+    object-fit: cover;
+    height: 215px;
+}
+.launch-details-heading{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-decoration: underline;
+}
+.links{
+    margin-bottom: 30px;
+}
